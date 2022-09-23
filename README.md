@@ -1,0 +1,1 @@
+"This repo contains exercises used for clustering section of my CODEUP class"
